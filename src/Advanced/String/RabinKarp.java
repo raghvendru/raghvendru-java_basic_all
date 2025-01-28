@@ -7,8 +7,7 @@ import  java.util.*;
 //Input: text = "ababcabcababc", pattern = "abc"
 //Output: [2, 5, 10]
 //Expalanation : The pattern "abc" is found at indices 2, 5, and 10 in the text.
-public class RabinKarp {
-    public List<Integer> search(String pat, String txt) {
-
-    }
-}
+//public class RabinKarp {
+//    public List<Integer> search(String pat, String txt) {
+//    }
+//}
