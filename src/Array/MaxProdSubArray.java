@@ -25,10 +25,7 @@ public class MaxProdSubArray {
             // return the result
             return ans;
         }
-    }
-
-    class Main {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
             int[] nums = {4, 5, 3, 7, 1, 2};
             // Creating an object of Solution class
             MaxProdSubArray sol = new MaxProdSubArray();
@@ -39,4 +36,4 @@ public class MaxProdSubArray {
         }
     }
 
-}
+
