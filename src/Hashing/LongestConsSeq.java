@@ -1,4 +1,4 @@
-package Array;
+package Hashing;
 
 public class LongestConsSeq {
     public static boolean linearSearch(int []a, int num) {
