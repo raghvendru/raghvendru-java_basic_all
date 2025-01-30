@@ -39,4 +39,4 @@ public class SerachInsert {
             System.out.println("The index is: " + ind);
         }
     }
-}
+
