@@ -56,7 +56,7 @@ public class CheapestFlightWithKstop {
         };
         int src = 0, dst = 3, k = 1;
         CheapestFlightWithKstop sol = new CheapestFlightWithKstop();
-        int ans = sol.CheapestFLight(n, flights, src, dst, k);
-        System.out.println("The cheapest flight from source to destination within K stops is: " + ans);
+        //int ans = sol.CheapestFLight(n, flights, src, dst, k);
+      //  System.out.println("The cheapest flight from source to destination within K stops is: " + ans);
     }
 }

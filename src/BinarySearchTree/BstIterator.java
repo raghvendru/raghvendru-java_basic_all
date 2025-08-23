@@ -55,12 +55,12 @@ public class BstIterator {
         root.left.left = new TreeNode(2);
         root.left.right = new TreeNode(4);
         root.right.right = new TreeNode(7);
-        BstIterator solution = new BstIterator();
+      //  BstIterator solution = new BstIterator();
         int k = 9;
 
         // Check if there exist two elements in the BST such that their sum is equal to k
-        boolean result = solution.twoSumBST(root, k);
-        System.out.println(result ? "True" : "False");
+      //  boolean result = solution.twoSumBST(root, k);
+      //  System.out.println(result ? "True" : "False");
     }
 }
 

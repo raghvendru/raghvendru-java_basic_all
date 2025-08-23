@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Given an array arr of size n, the task is to check if the given array is sorted in (ascending / Increasing / Non-decreasing) order. If the array is sorted then return True, else return False.//Examples:
 //Input: n = 5, arr = [1,2,3,4,5]
 //Output: True
-public class CheckArraySorted {
+public class  CheckArraySorted {
     public boolean isCheck(int[] arr,int n){
         //brute
 //        for(int i=0;i<n;i++){

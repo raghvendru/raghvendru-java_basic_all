@@ -8,7 +8,7 @@ public class Star1 {
             for(int j=1;j<=N;j++){
                 System.out.print("* ");
             }
-            System.out.println(" ");
+            System.out.println();
 
             }
         }

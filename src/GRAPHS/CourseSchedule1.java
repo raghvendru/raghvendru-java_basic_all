@@ -95,12 +95,12 @@ public class CourseSchedule1 {
 
         /* Function call to determine if
         all the tasks can be finished */
-        boolean ans = sol.canFinish(N, arr);
+      //  boolean ans = sol.canFinish(N, arr);
 
         // Output
-        if(ans)
+       // if(ans)
             System.out.println("All the tasks can be finished.");
-        else
+     //   else
             System.out.println("All the tasks can not be finished.");
     }
 }
